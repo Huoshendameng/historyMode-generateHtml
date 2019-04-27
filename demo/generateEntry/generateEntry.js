@@ -7,7 +7,7 @@ module.exports = () => {
   const __root = process.cwd()
   let { useHistory , routePath} = projectConfig
   useHistory = typeof useHistory !== 'boolean' ? false : useHistory
-  routePath = Array.isArray(useHistory) ? routePath : []
+  routePath = Array.isArray(routePath) ? routePath : []
   let htmlToBeInsert = []
   if (useHistory) {
     routePath.map(route => {
