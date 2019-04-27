@@ -5,10 +5,12 @@ const HtmlWebpackPlugin = require('html-webpack-plugin')
 const projectConfig = require('./generate.config')
 module.exports = () => {
   const __root = process.cwd()
-  const { useHistory } = projectConfig
+  let { useHistory , routePath} = projectConfig
+  useHistory = typeof useHistory !== 'boolean' ? false : useHistory
+  routePath = Array.isArray(useHistory) ? routePath : []
   let htmlToBeInsert = []
   if (useHistory) {
-    projectConfig.routePath.map(route => {
+    routePath.map(route => {
       if (route !== '/') {
         htmlToBeInsert.push(new HtmlWebpackPlugin({
           template: path.resolve(__root, './public/index.html'),
