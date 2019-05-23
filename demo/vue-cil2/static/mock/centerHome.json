@@ -1,0 +1,53 @@
+{
+
+  "resultData":{
+    "policyList": [{
+      "productTitle": "个人资金安全险",
+      "listType": 1,
+      "defaultPictureUrl": "//img30.360buyimg.com/jr_image/jfs/t7876/319/2946750939/24965/ec826898/59f18f38N38503489.png",
+      "defaultActionUrlContent": "立即购买",
+      "defaultActionUrl": "https://bao.jd.com",
+      "defaultActionContent": "您还没有保单哦",
+      "insStatus": 0,
+      "centerProductList": [{
+        "orderId": "131231279832234234",
+        "policyNo": "88772342342123123",
+        "skuId": "21000002",
+        "skuName": "账户安全险",
+        "claimDesc": "账户安全险",
+        "skuPictureUrl": "//img30.360buyimg.com/jr_image/jfs/t7876/319/2946750939/24965/ec826898/59f18f38N38503489.png",
+        "unpayAmount": 203.30,
+        "insuranceAmount": 203.30,
+        "InsBeginDate": "2018-11-01 19:47:20",
+        "InsEndDate": "2018-11-01 19:47:20",
+        "insurancePeriod": "2018-08-01至2018-10-10",
+        "insuredPerson": "张三",
+        "actionUrl": "https://bao.jd.com"
+      }]
+    }, {
+      "listType": 1,
+      "insStatus": 3,
+      "centerProductList": [{
+        "orderId": "131231279832234235",
+        "policyNo": "88772342342123125",
+        "skuId": "21000002",
+        "skuName": "健康险",
+        "skuPictureUrl": "//img30.360buyimg.com/jr_image/jfs/t7876/319/2946750939/24965/ec826898/59f18f38N38503489.png",
+        "insuranceAmount": 100.00,
+        "InsBeginDate": "2018-11-01 19:47:20",
+        "InsEndDate": "2018-11-01 19:47:20",
+        "insurancePeriod": "2018-07-01至2018-10-12",
+        "insuredPerson": "李四",
+        "actionUrl": "https://bao.jd.com",
+        "claimUrl": "https://bao.jd.com",
+        "claimDesc": "账户安全险",
+        "repurchaseUrl": "https://bao.jd.com",
+        "customerUrl": "https://bao.jd.com",
+        "renewalUrl": "https://bao.jd.com"
+      }]
+    }]
+  },
+  "success": true,
+  "resultCode": "0000",
+  "resultMsg": "请求成功"
+}

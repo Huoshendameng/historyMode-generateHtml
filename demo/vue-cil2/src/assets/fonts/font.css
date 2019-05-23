@@ -1,0 +1,19 @@
+
+@font-face {
+    font-family: "Avenir";
+    src: url('0fbe3efd2235fd8161837ddb1a99c584.ttf'); /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "fangzheng";
+    src: url('fangzheng.ttf'); /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "UDCBold";
+    src: url('UDC1.04-Bold.otf'); /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+    font-weight: normal;
+    font-style: normal;
+}

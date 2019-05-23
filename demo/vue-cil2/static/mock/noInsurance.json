@@ -1,0 +1,66 @@
+
+{
+  "result": {
+    "bugouOrderList": [
+      {
+        "mainSkuList": [
+          {
+            "fuwuSkuList": [
+              {
+                "buyLink": "//bugou.jd.com/app/toAccountPage?bugouInfo={'from':'MYPOLICY','fuwuType':'BG','mainOrderId':'72432660634','mainSkuInfos:[{'fuwuSkuInfos':[{'num':1,'sku':'26216377708'}],'mainSku':'3923387'}],'originalYbSku':'26216377708'}",
+                "fuwuSku": 26216377708,
+                "fuwuSkuName": "延长保3年",
+                "price": 29.90,
+                "serviceDescLink": "//baozhang.jd.com/phone/orderPeriodOfValidity?fuwuSku=26216377708",
+                "sortIndex": 0,
+                "tip": "将三包性能故障保修期延长3年"
+              }
+            ],
+            "imagePath": "http://img10.360buyimg.com/N5/jfs/t22789/78/473252117/145137/267973ad/5b31d1d1Na0c11c88.jpg",
+            "mainSku": 3923387,
+            "mainSkuName": "TP-LINK双千兆路由器 TL-WDR8620 2600M智能双频无线 千兆端口 光纤宽带 大户型穿墙",
+            "mainSkuNum": 1
+          }
+        ],
+        "orderDate": "2018-03-22 15:00:25",
+        "orderId": 72432660634
+      },
+      {
+        "mainSkuList": [
+          {
+            "fuwuSkuList": [
+              {
+                "buyLink": "//bugou.jd.com/app/toAccountPage?bugouInfo={'from':'MYPOLICY','fuwuType':'BG','mainOrderId':'64328771986','mainSkuInfos':[{'fuwuSkuInfos':[{'num':1,'sku':'26696494353'}],'mainSku':'968377'}],'originalYbSku':'26696494353'}",
+                "fuwuSku": 26696494353,
+                "fuwuSkuName": "全保修3年",
+                "price": 32.00,
+                "serviceDescLink": "//baozhang.jd.com/phone/orderPeriodOfValidity?fuwuSku=26696494353",
+                "sortIndex": 0,
+                "tip": "性能故障、意外故障全面保修"
+              },
+              {
+                "buyLink": "//bugou.jd.com/app/toAccountPage?bugouInfo={}",
+                "fuwuSku": 26697012869,
+                "fuwuSkuName": "延保至3年",
+                "price": 19.00,
+                "serviceDescLink": "//baozhang.jd.com/phone/orderPeriodOfValidity?fuwuSku=26697012869",
+                "sortIndex": 1,
+                "tip": "厂保延长至指定年限"
+              }
+            ],
+            "imagePath": "http://img10.360buyimg.com/N5/jfs/t22180/32/356588301/230011/a5d91d0b/5b0b7764Naf3d278b.jpg",
+            "mainSku": 968377,
+            "mainSkuName": "美的（Midea）3L 单杆 蒸汽挂烫机 家用手持/挂式电熨斗YGD30A2J(蓝色)",
+            "mainSkuNum": 1,
+            "moreBuyLink": "http://bugou.jd.com/phone/goIndexNewV2?orderId=64328771986&mainSkuId=968377&ybSkus=[26696494353,26696747248,26697012869,26697233867]&from=MYPOLICY"
+          }
+        ],
+        "orderDate": "2017-11-02 14:00:01",
+        "orderId": 64328771986
+      }
+    ]
+  },
+  "resultCode": "0000",
+  "resultMessage": "查询成功",
+  "success": true
+}

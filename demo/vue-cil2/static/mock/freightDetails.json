@@ -1,0 +1,45 @@
+
+{
+  "resultCode": "0000",
+  "success": true,
+  "resultMessage": "查询成功",
+  "result": {
+    "YfxDetail": {
+      "orderId": "136548765416",
+      "policyNo": "1112221165",
+      "insuranceName": "退换无忧",
+      "insuranceCompany": "中国人民财产保险股份有限公司",
+      "policyStatus": 1,
+      "claimStatusMsg": "退化无忧保障中",
+      "bizNo": "233473927937",
+      "validStartTime": "2018-07-01 00:00:01",
+      "validEndTime": "2018-07-09 00:00:01",
+      "detailPageUrl": "http://bao.jd.com/policycenter/index.html?orderId=XXX",
+      "premium": "3.00",
+      "predictClaimFee": "8.00",
+      "claimFee": "",
+      "yfxPolicyDetailMainWareData": [{
+        "mainSkuImgUrl": "//img30.360buyimg.com/jr_image/jfs/t1/888/38/7309/13638/5ba4bbbfE315949a0/2365957253418413.png",
+        "mainSkuNum": 1,
+        "mainSku": 2937443,
+        "mainSkuPrice":"150.00",
+        "mainSkuName": "罗马仕EN100 苹果无线背夹电池 充.夹电池"
+      },{
+        "mainSkuImgUrl": "//img30.360buyimg.com/jr_image/jfs/t1/888/38/7309/13638/5ba4bbbfE315949a0/2365957253418413.png",
+        "mainSkuNum": 5,
+        "mainSku": 2937443,
+        "mainSkuPrice":"7999.00",
+        "mainSkuName": "Apple iPhone X (A1865) 256GB 银色"
+      }],
+      "yfxPolicyDetailBanner": [{
+        "imgPah": "//img30.360buyimg.com/jr_image/jfs/t26740/318/985255916/46433/fad6b9/5bbd9727Nea025447.png",
+        "clickUrl": "http://......"
+      }],
+      "reminder": "完成退换货，自动申请理赔",
+      "guaranteeCon": "买家发货后发现……",
+      "claimPhone": "40012345678",
+      "claimProcessUrl":" https://……",
+      "morePolicyLink": "https://……"
+    }
+  }
+}

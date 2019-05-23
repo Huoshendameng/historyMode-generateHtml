@@ -1,0 +1,34 @@
+{
+  "result": {
+    "claimPhone": "95118",
+    "guaranteeCon": "买家收货后发现材质与商家描述不符……",
+    "supplierName": "中国人寿财产保险股份有限公司",
+    "insuranceName": "材质验真险",
+    "orderId": "80850670068",
+    "policyNo": "FB20181019160630331840",
+    "claimDesc": "您的保障申请已提交成功，请等候审核",
+    "morePolicyLink": "http://……",
+    "assuranceServiceUrl": "http://……",
+    "detailPageUrl": "http://……",
+    "policyStatus": "3",
+    "premium": "商家赠送",
+    "supplierId": "42843",
+    "showProcess":true,
+    "validEndTime": 1543895045000,
+    "validStartTime": 1540007045000,
+    "qrxPolicyDetailBanner": [{
+      "clickUrl": "http://123654.com.cn",
+      "imgPah": "http://img11.360buyimg.com/n5/jfs/t25111/266/2312139381/158653/f60d1b71/5bc840feN71aa60bc.png"
+    }],
+    "skuInfoList": [{
+      "sku": "33155679178",
+      "skuImgUrl": "http://img11.360buyimg.com/n5/jfs/t1/4558/17/5157/98650/5b9f1746Eadacf73a/a01517eca73b18c6.jpg",
+      "skuName": "多亲（QIN） Qin 1s AI功能电话 智能语音红外遥控老人手机双卡双待 移动联通4G手机 小爱 中国红",
+      "skuNum": 1,
+      "skuPrice": "369.00"
+    }]
+  },
+  "resultCode": "00000",
+  "resultMessage": "成功",
+  "success": true
+}

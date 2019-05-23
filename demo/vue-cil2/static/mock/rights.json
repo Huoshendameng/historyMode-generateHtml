@@ -1,0 +1,23 @@
+{
+  "result": {
+    "canReceiveEquityInfos": [{
+      "linkUrl": "https://bao.jd.com/app/bx/item?itemId=2018062001&source=JRAPP",
+      "name": "自驾车意外伤害险",
+      "tip": "驾驶乘坐自驾车全都保，发生意外残疾身故即赔付，有保障让全车人都能安心出行"
+    }, {
+      "linkUrl": "https://bao.jd.com/app/bx/item?itemId=2018062001&source=JRAPP",
+      "name": "100万保额账户安全险",
+      "tip": "保障京东旗下所有资金账户安全(含E卡虚拟资产)"
+    }],
+    "receivedEquityInfos": [{
+      "linkUrl": "https://bao.jd.com/app/bx/item?itemId=2018062001&source=JRAPP",
+      "name": "自驾车意外伤害险",
+      "tip": "驾驶乘坐自驾车全都保，发生意外残疾身故即赔付，有保障让全车人都能安心出行"
+    }, {
+      "linkUrl": "https://bao.jd.com/app/bx/item?itemId=2018062001&source=JRAPP",
+      "name": "100万保额账户安全险",
+      "tip": "保障京东旗下所有资金账户安全(含E卡虚拟资产)"
+    }]
+  },
+  "success": true
+}
