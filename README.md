@@ -45,13 +45,17 @@ useHistory: [boolean]  default:true
 routePath: [Array] default:[]
 
 ### 在vue-cli3里面的vue.config.js的配置
-`  configureWebpack: config => {
-     if (process.env.NODE_ENV === 'production') {
-       const { htmlToBeInsert } = generateEntry()
-       config.plugins = [...config.plugins, ...htmlToBeInsert]
-     }
-   } ` 
-   
+   `  configureWebpack: config => {
+        if (process.env.NODE_ENV === 'production') {
+          const { htmlToBeInsert } = generateEntry()
+          config.plugins = [...config.plugins, ...htmlToBeInsert]
+        }
+      } `
+### 在vue-cli2里面的webpack.prod.conf.js的配置
+在 webpackConfig 下面加入
+`  const htmlPlugins = generateEntry()
+   webpackConfig.plugins = webpackConfig.plugins.concat(htmlPlugins.htmlToBeInsert) `
+**在generateEntry.js文件里面吧 template 后面的路径 改成你的html模板的路径
 详见DEMO
 
 
