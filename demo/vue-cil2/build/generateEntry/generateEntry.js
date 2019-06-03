@@ -13,7 +13,7 @@ module.exports = () => {
     routePath.map(route => {
       if (route !== '/') {
         htmlToBeInsert.push(new HtmlWebpackPlugin({
-          template: path.resolve(__root, './public/index.html'),
+          template: path.resolve(__root, './index.html'),
           filename: path.resolve(__root, `dist/${route}/index.html`),
           minify:{
             removeComments: true,

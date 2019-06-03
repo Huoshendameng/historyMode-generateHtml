@@ -10,19 +10,6 @@ module.exports = {
     // Paths
     assetsSubDirectory: 'static',
     assetsPublicPath: '/',
-    // proxyTable: {},
-    //   proxyTable: {
-    //       '/myPolicy': {
-    //           // 测试环境
-    //           target: 'http://baozhang.jd.com',  // 接口域名
-    //           changeOrigin: true,  //是否跨域
-    //           // pathRewrite: {
-    //           //     '^/myPolicy': ''   //需要rewrite重写的,
-    //           // }
-    //       }
-    //   },
-    // Various Dev Server settings
-    // host: 'minner.jr.jd.com', // can be overwritten by process.env.HOST
     host:'0.0.0.0',
     port: 80, // can be overwritten by process.env.PORT, if port is in use, a free one will be determined
     autoOpenBrowser: true,
@@ -54,9 +41,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: './',
-      // assetsPublicPath: '/myInsurance/1.0.0/',
-    // assetsPublicPath: '//demo.jr.jd.com/finance/mobile/insurance/myInsurance/1.0.0/',
+    assetsPublicPath: '/',
 
     /**
      * Source Maps
